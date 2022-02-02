@@ -20,14 +20,14 @@ rm -rf ./popos-gestures
 
 ## Gestures
 
-### SWIPE 3 fingers UP / DOWN
+#### SWIPE 3 fingers UP / DOWN
 
 Opens activities view, opposite gesture closes it.
 
-### SWIPE 3 fingers LEFT / RIGHT
+#### SWIPE 3 fingers LEFT / RIGHT
 
 Changes current workspace.
 
-### PINCH 4 fingers IN / OUT
+#### PINCH 4 fingers IN / OUT
 
 Opens and closes applications view.
