@@ -2,6 +2,8 @@
 
 My config for PopOS gestures using Touchegg, mimicking MacOS gestures.
 
+Only tested on the Framework laptop with PopOS 21.10
+
 ## Installing
 
 ```
