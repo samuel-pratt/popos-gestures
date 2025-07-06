@@ -11,7 +11,7 @@ Only tested on the Framework laptop with PopOS 21.10
 git clone https://github.com/samuel-pratt/popos-gestures.git
 
 # make touchegg config folder
-mdkir -p ~/.config/touchegg
+mkdir -p ~/.config/touchegg
 
 # copy config from cloned repo to local
 cp -n ./popos-gestures/touchegg.conf ~/.config/touchegg/touchegg.conf
